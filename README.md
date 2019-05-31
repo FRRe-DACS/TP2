@@ -1,6 +1,7 @@
 # TP2
 TP N° 2 Frameworks / Librerias Frontend
 Fecha Entrega / Exposición: 31-05-2019
+Subir el código fuente al repositorio como un nuevo branch identificatorio del grupo. 
 
 Actividad N°1
 •	Para cada uno de los siguientes Frameworks de Frontend, investigar y confeccionar una breve descripción cada uno y elaborar un cuadro comparativo de los mismos.
