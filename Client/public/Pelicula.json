@@ -1,0 +1,24 @@
+[
+    {
+            "nombre": "Aladin",
+            "genero": "Aventura",
+            "calificacion": 90,
+            "tipo": "2D",
+            "sinopsis":"ALADDÍN, la adaptación de acción real del clásico animado de 1992- El exótico paisaje del mítico reino árabe de Agrabah. Aladdin es un ingenioso joven que, a pesar de vivir en un estado de extrema pobreza, sueña con casarse con la bella hija del sultán, la princesa Yasmin. El destino interviene cuando el astuto visir del Sultán, Yafar, recluta a Aladdin para que le ayude a recuperar la lámpara maravillosa de las profundidades de la Cueva de las Maravillas. El joven encuentra la lámpara, en la que vive un genio que concede tres deseos a quien le libere."
+        },
+        {
+            "nombre": "John Wick 3: Parabellum",
+            "genero": "Accion",
+            "calificacion": 100,
+            "tipo": "2D", 
+            "sinopsis":"Luego de los eventos ocurridos en John Wick 2, el protagonista comienza a ser perseguido por todas las mafias que simpatizan con el italiano a quién John le debía un favor. Con un precio por su cabeza que escaló a 14 millones de dólares, ahora todos los sicarios van por él"
+        },
+        {
+            "nombre": "POKEMON: Detective Pikachu",
+            "genero": "Aventura",
+            "calificacion": 85,
+            "tipo": "3D", 
+            "sinopsis":"Primera película de imagen real de la franquicia Pokémon, basada en el videojuego Detective Pikachu. En un mundo donde las personas recolectan monstruos de bolsillo (pokemon) para luchar, un niño se encuentra con un monstruo inteligente que busca ser un detective."
+        }
+
+]
