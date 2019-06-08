@@ -1,27 +1,31 @@
-# Client
+Para correr el proyecto es necesario tener mysql instalado. Y crear una base de datos descripta en el archivo de base de datos del proyecto. Para ver el contenido se deben realizar una carga/borrado/actualizacion desde el cliente una ves que este corriendo.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.3.
+Tener instalado Node.
 
-## Development server
+Tener instalado Angular 7.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Ademas es necesario instalar el copilador de Typescript.
+npm install -g typescript
 
-## Code scaffolding
+Arrastramos el proyecto a por ejemplo Visual Studio Code.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Para correr el proyecto:
 
-## Build
+Abrimos la primera terminar, posicionados en el proyecto:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+nos posicionamos y lanzamos los siguientes comandos:
 
-## Running unit tests
+cd server
+npm run build
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Abrimos la segunda terminar, posicionados en el proyecto:
 
-## Running end-to-end tests
+cd server
+npm run dev
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
+Abrimos la tercera terminar, posicionados en el proyecto:
 
-## Further help
+cd client
+ng serve
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Para ingresar al cliente que esta corriendo vamos desde el browser:http://localhost:4200/
